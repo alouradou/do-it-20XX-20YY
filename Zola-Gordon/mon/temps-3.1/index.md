@@ -1,7 +1,7 @@
 ---
 layout: layout/mon.njk
 
-title: "Titre du MON"
+title: "Titre du premier MON du temps 3"
 authors:
   - Gordon Zola
 
